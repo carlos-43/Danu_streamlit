@@ -10,3 +10,5 @@ streamlit-folium
 osmnx
 networkx
 shapely
+geopandas
+matplotlib
